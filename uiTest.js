@@ -15,4 +15,5 @@ function longestConsec(strarr, k) {
  
 }
 
-longestConsec( ["tree", "foling", "trashy", "blue", "abcdef", "uvwxyz"], 2) 
+longestConsec( ["tree", "foling", "trashy", "blue", "abcdef", "uvwxyz"], 2)
+longestConsec(["zone", "abigail", "theta", "form", "libe", "zas", "theta", "abigail"], 2) 
